@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoIT</string>
+    <string name="new_task_hint">New Task</string>
+    <string name="save_button">Save</string>
+    <string name="floating_button_desc">Add File</string>
+    <string name="task_label">Tasks</string>
+</resources>
